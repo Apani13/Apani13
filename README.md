@@ -45,10 +45,12 @@ My background combines creative disciplines with backend engineering, which shap
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat)
 
+  
 **Currently learning**
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
-![AWS](https://img.shields.io/badge/AWS-Basics-FF9900?style=flat)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat)
+
 
 ---
 
