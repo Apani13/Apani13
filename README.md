@@ -35,6 +35,7 @@ My background combines creative disciplines with backend engineering, which shap
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat)
 ![H2](https://img.shields.io/badge/H2-9E9E9E?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
 
 **Tooling & Testing**
   
@@ -43,6 +44,11 @@ My background combines creative disciplines with backend engineering, which shap
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat)
+
+**Currently learning**
+  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
+![AWS](https://img.shields.io/badge/AWS-Basics-FF9900?style=flat)
 
 ---
 
